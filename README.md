@@ -38,9 +38,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 <br>
 
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>
+![image](https://github.com/Sanafathima95773/Norm-of-a-matrix/assets/147084627/25107984-aad7-4163-8295-56f8bb4db84d)
+
 
 ### Infinity Norm of a Matrix
 <br>
