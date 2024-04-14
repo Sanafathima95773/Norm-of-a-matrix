@@ -32,6 +32,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ## Output:
 ### 1-Norm of a Matrix
 <br>
+![image](https://github.com/Sanafathima95773/Norm-of-a-matrix/assets/147084627/c3614642-b91c-4c38-b243-f72ba47d2974)
+
 <br>
 <br>
 
