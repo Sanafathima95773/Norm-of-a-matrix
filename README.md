@@ -35,7 +35,7 @@ print("{:.2f}".format(two_matrix))
 
 
 # Infinity Norm of a Matrix
-'''
+```
 Program to find 1-norm of a matrix.
 Developed by: Sana Fathima H
 RegisterNumber: 212223240145
