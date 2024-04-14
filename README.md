@@ -37,19 +37,21 @@ print("{:.2f}".format(two_matrix))
 
 
 # Infinity Norm of a Matrix
-
-
-
-
-
+'''
+Program to find 1-norm of a matrix.
+Developed by: Sana Fathima H
+RegisterNumber: 212223240145
+'''
+import numpy as np
+matrix=eval(input())
+infinity_matrix=np.linalg.norm(matrix,np.inf)
+print("{:.2f}".format(infinity_matrix))
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
+
 ![image](https://github.com/Sanafathima95773/Norm-of-a-matrix/assets/147084627/c3614642-b91c-4c38-b243-f72ba47d2974)
 
-<br>
-<br>
 
 ### 2-Norm of a Matrix
 ![image](https://github.com/Sanafathima95773/Norm-of-a-matrix/assets/147084627/25107984-aad7-4163-8295-56f8bb4db84d)
